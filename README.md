@@ -29,7 +29,7 @@ These files were provided as the design specification for the project:
 
 ## 🚀 Live Demo
 
-[🔗 View Live Demo](https://spotify-playlist-clone-project.netlify.app)
+[🔗 View Live Demo](https://spotify-playlist-clone-project.netlify.app) (best viewed on desktop — recommended window width: 1920px)
 
 ## 👩‍💻 Author
 
