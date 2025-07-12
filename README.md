@@ -36,4 +36,4 @@ These files were provided as the design specification for the project:
 **[Lito Karageorgou]** – Front-End Developer 
 
 📫 Contact: [lito.karageorgou@yahoo.com]  
-🔗 GitHub: [https://github.com/LitoKarageorgou?tab=repositories]
+🔗 LinkedIn: [https://www.linkedin.com/in/lito-karageorgou/]
